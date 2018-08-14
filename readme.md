@@ -39,7 +39,7 @@ Como último punto, cliente no menciona que el administrador anterior del sitio 
 
   - Tomar un screenshot del resultado
 
-- Optimizar el sitio usando plugins de Wordpress
+- Optimizar el sitio web usando plugins de Wordpress
 
 - Revisar nuevamente rendimiento del sitio usando [GT Metrix](https://gtmetrix.com/)
 
