@@ -1,5 +1,8 @@
 # Reporte
 
+El sitio ahora se encuentra en:
+http://gabriela.freshwork.cl/
+
 ## Recuperación de clave:
 Creamos un nuevo usuario y clave para ingresar al sitio.
 
