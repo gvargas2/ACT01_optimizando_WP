@@ -15,7 +15,7 @@ Se hace un deploy "manual".
 ## Optimización:
 Optimizamos el sitio usando plugins: "Smushit", "autoptimize", "w3 total caché".
 
-## .htaccess:
+## Archivo .htaccess:
 Se modifica el archivo .htaccess y se le agrega una nuva configuración para la optimización del sitio.
 
 ## Otros problemas del sitio a solucionar:
@@ -26,9 +26,16 @@ Se modifica el archivo .htaccess y se le agrega una nuva configuración para la 
 - Crear una página nueva con un portafolio de todos los clientes.
 
 ## Tiempos de desarrollo:
+- Jornada 1 (3 horas aprox.): Recuperación de la clave, actualizaciones, seguridad y deploy manual.
+- Jornada 2 (4 horas aprox.): Optimizaciones y archivo .htaccess.
+- Jornada 3 (7 horas aprox.): Otros problemas del sitio a soluacionar.
 
 ## Presupuesto itemizado:
-
-HINT: Se recomienda para este tipo de presupuestos calcular el tiempo estimado específico de cada arreglo y, a partir de eso, cobrar las horas que se van a utilizar según la "Hora Hombre" que estimes conveniente cobrar. Un desarrollador Wordpress Junior puede ganar desde 0.4 UF a 1UF por hora.
+Se necesitarán al menos 14 horas de trabajo.
+La "Hora Hombre" que se cobrará es de 0.4 UF.
+En total sería: 5,6 UF.
 
 ## Screnshots: Antes y después de la optimización del sitio web
+![gtmetrix_antes](https://user-images.githubusercontent.com/44576817/54406599-7c4fa800-46b9-11e9-935c-090c2d32e9da.JPG)
+![gtmetrix_despues](https://user-images.githubusercontent.com/44576817/54406617-8a9dc400-46b9-11e9-89ee-a443a1a21223.JPG)
+![gtmetrix_final](https://user-images.githubusercontent.com/44576817/54406632-94272c00-46b9-11e9-8985-11a6c59759af.JPG)
